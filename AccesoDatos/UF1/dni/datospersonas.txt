@@ -1,0 +1,13 @@
+Dni:5555V
+Nombre: Pepe
+Apellidos: Gomez
+Edad: 34
+
+DNI: 333R
+Nombre: Manuela
+Apellidos: Torres
+Edad: 23
+DNI: 22222A
+Nombre: Maria
+Apellidos: Ferrer
+Edad: 67
